@@ -121,11 +121,9 @@
 
 --
 
-### 12.
+### 12. [Utime](https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki)
 
 ![](https://i.imgur.com/6Kzhfvk.png)
-
-https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki
 
 #### Features
 
@@ -134,11 +132,9 @@ https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki
 
 --
 
-### 13.
+### 13. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
 ![](https://i.imgur.com/zcj6oNc.png)
-
-https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg
 
 #### Features
 
@@ -147,11 +143,9 @@ https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfb
 
 --
 
-### 14.
+### 14. [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
 ![](https://i.imgur.com/AQAWZ0F.png)
-
-https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
 #### Features
 
