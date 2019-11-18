@@ -2,33 +2,33 @@
 
 ---
 
-### 1.
+### 1. [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
 
 ![](https://i.imgur.com/rKZ7l5c.png)
 
-https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj
+#### Features
 
 - change your browser timezone
   ![](https://i.imgur.com/6NkBuue.png)
 
 --
 
-### 2.
+### 2. [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)
 
 ![](https://i.imgur.com/rSWpum9.png)
 
-https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd
+#### Features
 
 - autocomplete the GitHub search bar
   ![](https://i.imgur.com/mREigY2.png)
 
 --
 
-### 3.
+### 3. [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
 
 ![](https://i.imgur.com/PUVTHjv.png)
 
-https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp
+#### Features
 
 - pick the color from the website  
   ![](https://i.imgur.com/S9fxYhs.png)
