@@ -35,86 +35,86 @@
 
 --
 
-### 4.
+### 4. [Figure it Out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke)
 
 ![](https://i.imgur.com/AkwecxA.png)
 
-https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke
+#### Features
 
 - display current time in multiple timezone when you open a new tab  
   ![](https://i.imgur.com/bfsGxuU.png)
 
 --
 
-### 5.
+### 5. [Incognito This](https://chrome.google.com/webstore/detail/incognito-this/aglfgiceepbeffbpmlohbdnhmliojinm)
 
 ![](https://i.imgur.com/7HkzMkf.png)
 
-https://chrome.google.com/webstore/detail/incognito-this/aglfgiceepbeffbpmlohbdnhmliojinm
+#### Features
 
 - convert current tab into incognito window
 
 --
 
-### 6.
+### 6. [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
 
 ![](https://i.imgur.com/BcBaGTj.png)
 
-https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc
+#### Features
 
 - format the json response in chrome window
   ![](https://i.imgur.com/kVxMN6u.png)
 
 --
 
-### 7.
+### 7. [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme)
 
 ![](https://i.imgur.com/N9gmN7G.png)
 
-https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme
+#### Features
 
 - measure the size and position of the elements on web page
   ![](https://i.imgur.com/PAro1Y0.png)
 
 --
 
-### 8.
+### 8. [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)
 
 ![](https://i.imgur.com/evUeJpH.png)
 
-https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd
+#### Features
 
 - send the link or message to different device
   ![](https://i.imgur.com/O6DUPl0.png)
 
 --
 
-### 9.
+### 9. [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
 
 ![](https://i.imgur.com/xYHFF9o.png)
 
-https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf
+#### Features
 
 - add some useful features into the GitHub page
   ![](https://i.imgur.com/xDp6gUp.png)
 
 --
 
-### 10.
+### 10. [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
 
 ![](https://i.imgur.com/PJoJO2g.png)
 
-https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg
+#### Features
 
 - suspend the tabs in the background if it has not be used for a specific time
 
 --
 
-### 11.
+### 11. [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
 
 ![](https://i.imgur.com/PmECcQl.png)
 
-https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
+#### Features
 
 - switch user-agent
   ![](https://i.imgur.com/LV9YzRn.png)
@@ -127,6 +127,8 @@ https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdh
 
 https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki
 
+#### Features
+
 - convert the timestamp into human readable format  
   ![](https://i.imgur.com/wTlBMLh.png)
 
@@ -137,6 +139,8 @@ https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki
 ![](https://i.imgur.com/zcj6oNc.png)
 
 https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg
+
+#### Features
 
 - show the technologies be used on current webpage
   ![](https://i.imgur.com/vfjnczk.png)
@@ -149,6 +153,8 @@ https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfb
 
 https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm
 
+#### Features
+
 - check the font-family on the webpage  
   ![](https://i.imgur.com/jsnqidT.png)
 
@@ -158,26 +164,20 @@ https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfc
 
 Other extensions for specific service or framework
 
-#### FB pixel
+- FB pixel
+  ![](https://i.imgur.com/dymFcDu.png)
 
-![](https://i.imgur.com/dymFcDu.png)
+- Google AdSense, Ad Exchange, DFP
+  ![](https://i.imgur.com/xt5rWbN.png)
 
-#### Google AdSense, Ad Exchange, DFP
+- Google Analytic & GTM
+  ![](https://i.imgur.com/IgURe50.png)
 
-![](https://i.imgur.com/xt5rWbN.png)
+- React Developer Tools
+  ![](https://i.imgur.com/swTBAj8.png)
 
-#### Google Analytic & GTM
+- Redux DevTools
+  ![](https://i.imgur.com/VxZs0DZ.png)
 
-![](https://i.imgur.com/IgURe50.png)
-
-#### React Developer Tools
-
-![](https://i.imgur.com/swTBAj8.png)
-
-#### Redux DevTools
-
-![](https://i.imgur.com/VxZs0DZ.png)
-
-#### Vue.js
-
-![](https://i.imgur.com/VR88mct.png)
+- Vue.js
+  ![](https://i.imgur.com/VR88mct.png)
