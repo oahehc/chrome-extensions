@@ -2,7 +2,9 @@
 
 ---
 
-### 1. [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
+## 1. Time
+
+### 1-1. [Change Timezone](https://chrome.google.com/webstore/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj)
 
 ![](https://i.imgur.com/rKZ7l5c.png)
 
@@ -13,115 +15,7 @@
 
 --
 
-### 2. [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)
-
-![](https://i.imgur.com/rSWpum9.png)
-
-#### Features
-
-- autocomplete the GitHub search bar
-  ![](https://i.imgur.com/mREigY2.png)
-
---
-
-### 3. [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
-
-![](https://i.imgur.com/PUVTHjv.png)
-
-#### Features
-
-- pick the color from the website  
-  ![](https://i.imgur.com/S9fxYhs.png)
-
---
-
-### 4. [Figure it Out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke)
-
-![](https://i.imgur.com/AkwecxA.png)
-
-#### Features
-
-- display current time in multiple timezone when you open a new tab  
-  ![](https://i.imgur.com/bfsGxuU.png)
-
---
-
-### 5. [Incognito This](https://chrome.google.com/webstore/detail/incognito-this/aglfgiceepbeffbpmlohbdnhmliojinm)
-
-![](https://i.imgur.com/7HkzMkf.png)
-
-#### Features
-
-- convert current tab into incognito window
-
---
-
-### 6. [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
-
-![](https://i.imgur.com/BcBaGTj.png)
-
-#### Features
-
-- format the json response in chrome window
-  ![](https://i.imgur.com/kVxMN6u.png)
-
---
-
-### 7. [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme)
-
-![](https://i.imgur.com/N9gmN7G.png)
-
-#### Features
-
-- measure the size and position of the elements on web page
-  ![](https://i.imgur.com/PAro1Y0.png)
-
---
-
-### 8. [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)
-
-![](https://i.imgur.com/evUeJpH.png)
-
-#### Features
-
-- send the link or message to different device
-  ![](https://i.imgur.com/O6DUPl0.png)
-
---
-
-### 9. [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
-
-![](https://i.imgur.com/xYHFF9o.png)
-
-#### Features
-
-- add some useful features into the GitHub page
-  ![](https://i.imgur.com/xDp6gUp.png)
-
---
-
-### 10. [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
-
-![](https://i.imgur.com/PJoJO2g.png)
-
-#### Features
-
-- suspend the tabs in the background if it has not be used for a specific time
-
---
-
-### 11. [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-
-![](https://i.imgur.com/PmECcQl.png)
-
-#### Features
-
-- switch user-agent
-  ![](https://i.imgur.com/LV9YzRn.png)
-
---
-
-### 12. [Utime](https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki)
+### 1-2. [Utime](https://chrome.google.com/webstore/detail/utime/kpcibgnngaaabebmcabmkocdokepdaki)
 
 ![](https://i.imgur.com/6Kzhfvk.png)
 
@@ -132,7 +26,55 @@
 
 --
 
-### 13. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+### 1-3. [Figure it Out](https://chrome.google.com/webstore/detail/figure-it-out/lialghmkggocekkpjbnoacohodmckfke)
+
+![](https://i.imgur.com/AkwecxA.png)
+
+#### Features
+
+- display current time in multiple timezone when you open a new tab  
+  ![](https://i.imgur.com/bfsGxuU.png)
+
+--
+
+## 2. Design
+
+### 2-1. [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp)
+
+![](https://i.imgur.com/PUVTHjv.png)
+
+#### Features
+
+- pick the color from the website  
+  ![](https://i.imgur.com/S9fxYhs.png)
+
+--
+
+### 2-2. [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme)
+
+![](https://i.imgur.com/N9gmN7G.png)
+
+#### Features
+
+- measure the size and position of the elements on web page
+  ![](https://i.imgur.com/PAro1Y0.png)
+
+--
+
+### 2-3. [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+
+![](https://i.imgur.com/AQAWZ0F.png)
+
+#### Features
+
+- check the font-family on the webpage  
+  ![](https://i.imgur.com/jsnqidT.png)
+
+--
+
+## 3. RD
+
+### 3-1. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
 ![](https://i.imgur.com/zcj6oNc.png)
 
@@ -143,18 +85,76 @@
 
 --
 
-### 14. [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+### 3-2. [Incognito This](https://chrome.google.com/webstore/detail/incognito-this/aglfgiceepbeffbpmlohbdnhmliojinm)
 
-![](https://i.imgur.com/AQAWZ0F.png)
+![](https://i.imgur.com/7HkzMkf.png)
 
 #### Features
 
-- check the font-family on the webpage  
-  ![](https://i.imgur.com/jsnqidT.png)
+- convert current tab into incognito window
 
----
+--
 
-### Others
+### 3-3. [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc)
+
+![](https://i.imgur.com/BcBaGTj.png)
+
+#### Features
+
+- format the json response in chrome window
+  ![](https://i.imgur.com/kVxMN6u.png)
+
+--
+
+## 4. Cross Device
+
+### 4-1. [User-Agent Switcher for Chrome](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+
+![](https://i.imgur.com/PmECcQl.png)
+
+#### Features
+
+- switch user-agent
+  ![](https://i.imgur.com/LV9YzRn.png)
+
+--
+
+### 4-2. [Pushbullet](https://chrome.google.com/webstore/detail/pushbullet/chlffgpmiacpedhhbkiomidkjlcfhogd)
+
+![](https://i.imgur.com/evUeJpH.png)
+
+#### Features
+
+- send the link or message to different device
+  ![](https://i.imgur.com/O6DUPl0.png)
+
+--
+
+## 5. GitHub
+
+### 5-1. [Awesome Autocomplete for GitHub](https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd)
+
+![](https://i.imgur.com/rSWpum9.png)
+
+#### Features
+
+- autocomplete the GitHub search bar
+  ![](https://i.imgur.com/mREigY2.png)
+
+--
+
+### 5-2. [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+
+![](https://i.imgur.com/xYHFF9o.png)
+
+#### Features
+
+- add some useful features into the GitHub page
+  ![](https://i.imgur.com/xDp6gUp.png)
+
+--
+
+## 6. Service & Framework
 
 Other extensions for specific service or framework
 
@@ -175,3 +175,15 @@ Other extensions for specific service or framework
 
 - Vue.js
   ![](https://i.imgur.com/VR88mct.png)
+
+--
+
+## 7. Others
+
+### 7-1. [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg)
+
+![](https://i.imgur.com/PJoJO2g.png)
+
+#### Features
+
+- suspend the tabs in the background if it has not be used for a specific time
