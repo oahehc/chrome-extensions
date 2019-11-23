@@ -52,7 +52,7 @@ check the font-family on the webpage
 
 ### 3-1. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
 
-show the technologies be used on current webpage
+show the technologies used on current webpage
 
 ![](https://i.imgur.com/zcj6oNc.png)  
 ![](https://i.imgur.com/vfjnczk.png)
