@@ -106,22 +106,24 @@ add some useful features into the GitHub page
 
 Other extensions for specific service or framework
 
-- FB pixel
+- [FB pixel helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc)
   ![](https://i.imgur.com/dymFcDu.png)
 
-- Google AdSense, Ad Exchange, DFP
+- [Google Publisher Toolbar](https://chrome.google.com/webstore/detail/google-publisher-toolbar/omioeahgfecgfpfldejlnideemfidnkc
+  for Google AdSense, Ad Exchange, DFP
   ![](https://i.imgur.com/xt5rWbN.png)
 
-- Google Analytic & GTM
+- [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk)
+  For Google Analytic & GTM
   ![](https://i.imgur.com/IgURe50.png)
 
-- React Developer Tools
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
   ![](https://i.imgur.com/swTBAj8.png)
 
-- Redux DevTools
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
   ![](https://i.imgur.com/VxZs0DZ.png)
 
-- Vue.js
+- [Vue.js devtools]https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
   ![](https://i.imgur.com/VR88mct.png)
 
 ## 7. Others
